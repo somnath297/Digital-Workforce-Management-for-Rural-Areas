@@ -38,8 +38,7 @@ The system eliminates middlemen, ensures transparent pricing, and provides a dig
 * **Deployment:** PyInstaller (Converted to .exe)
 
 ## 📸 Screenshots
-*(Add your screenshots here. Example:)*
-![Dashboard Screenshot](path/to/screenshot.png)
+![Dashboard Screenshot](https://1drv.ms/i/c/8cb07e742d3bbc1e/ESZzaqiRYexKqeC7icvBHYgBM1x1Kr-9V4Jp3m6psrJpCg?e=b5mOFd)
 
 ## ⚙️ Installation & Run
 1. **Clone the repository:**
