@@ -47,5 +47,4 @@ The system eliminates middlemen, ensures transparent pricing, and provides a dig
 
 ## ⚙️ Installation & Run
 1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YourUsername/Digital-Workforce-Management.git](https://github.com/somnath297/Digital-Workforce-Management.git)
+   git clone [https://github.com/somnath297/Digital-Workforce-Management.git](https://github.com/somnath297/Digital-Workforce-Management.git)
