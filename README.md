@@ -38,9 +38,14 @@ The system eliminates middlemen, ensures transparent pricing, and provides a dig
 * **Deployment:** PyInstaller (Converted to .exe)
 
 ## 📸 Screenshots
-![Dashboard Screenshot](https://1drv.ms/i/c/8cb07e742d3bbc1e/ESZzaqiRYexKqeC7icvBHYgBM1x1Kr-9V4Jp3m6psrJpCg?e=b5mOFd)
+![Login Page Sceenshot](<img width="449" height="524" alt="Screenshot 2025-11-19 181718" src="https://github.com/user-attachments/assets/2d4dd562-ef2b-4eca-8720-7f5c55b41495" />
+)
+![Customer Dashboard Screenshot](<img width="1365" height="767" alt="Screenshot 2025-11-19 182434" src="https://github.com/user-attachments/assets/f3cb8de5-efde-491d-ad2c-0950ecd0c8e3" />)
+![Worker Dashboard Sceenshot](<img width="989" height="724" alt="Screenshot 2025-11-19 183200" src="https://github.com/user-attachments/assets/e15969cb-f41e-4b1b-be81-005c0d21dc2c" />)
+![In-App Chat Sceenshot](<img width="491" height="621" alt="Screenshot 2025-11-19 183315" src="https://github.com/user-attachments/assets/4c2ddc0b-a313-4d0c-be93-4b3b8faa9097" />)
+![Admin Panel Sceenshot](<img width="1090" height="722" alt="Screenshot 2025-11-19 183508" src="https://github.com/user-attachments/assets/8f424674-8a1b-4e7a-becd-11fbb5eaff25" />)
 
 ## ⚙️ Installation & Run
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YourUsername/Digital-Workforce-Management.git](https://github.com/YourUsername/Digital-Workforce-Management.git)
+   git clone [https://github.com/YourUsername/Digital-Workforce-Management.git](https://github.com/somnath297/Digital-Workforce-Management.git)
